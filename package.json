@@ -1,0 +1,24 @@
+{
+  "name": "get-date-range",
+  "version": "1.0.0",
+  "description": "Input an array of date objects to return the range of those dates as a human readable string.",
+  "main": "index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bj2jung/get-date-range.git"
+  },
+  "keywords": [
+    "date",
+    "range",
+    "string"
+  ],
+  "author": "Brendon Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bj2jung/get-date-range/issues"
+  },
+  "homepage": "https://github.com/bj2jung/get-date-range#readme"
+}
